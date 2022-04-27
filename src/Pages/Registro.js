@@ -14,8 +14,8 @@ const styles = {
 function Registro(){
     const registerInputs = [
 		{ label: 'Nombre de usuario', type: 'text', placeholder: 'Ingresa tu nombre de usuario', name: 'usuario' },
-		{ label: 'Constraseña', type: 'password', placeholder: 'Ingresa contraseña', name: 'contraseña' },
-		{ label: 'Constraseña', type: 'password', placeholder: 'Repetí tu contraseña', name: 'confirmarContraseña' },
+		{ label: 'Contraseña', type: 'password', placeholder: 'Ingresa tu contraseña', name: 'contraseña' },
+		{ label: 'Contraseña', type: 'password', placeholder: 'Repetí tu contraseña', name: 'confirmarContraseña' },
 	]
     return(
         <div style={styles.mainContainer}>

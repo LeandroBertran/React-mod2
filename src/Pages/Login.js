@@ -14,7 +14,7 @@ const styles = {
 function Login(){
     const loginInputs = [
 		{ label: 'Nombre de usuario', type: 'text', placeholder: 'Ingresa tu nombre de usuario', name: 'usuario' },
-		{ label: 'Constraseña', type: 'password', placeholder: 'Ingresa contraseña', name: 'contraseña' },
+		{ label: 'Contraseña', type: 'password', placeholder: 'Ingresa tu contraseña', name: 'contraseña' },
 	]
 
     return(
