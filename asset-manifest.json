@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LeandroBertran/React-mod2/static/css/main.07603b61.css",
-    "main.js": "/LeandroBertran/React-mod2/static/js/main.fc87209a.js",
-    "static/js/787.3ddf1f1c.chunk.js": "/LeandroBertran/React-mod2/static/js/787.3ddf1f1c.chunk.js",
-    "static/media/404.png": "/LeandroBertran/React-mod2/static/media/404.37012dd33fd3f60bb8cf.png",
-    "static/media/loading.gif": "/LeandroBertran/React-mod2/static/media/loading.97f9fd44b24dd52e8ab9.gif",
-    "static/media/bunny-logo.png": "/LeandroBertran/React-mod2/static/media/bunny-logo.91696254a0610e23e182.png",
-    "index.html": "/LeandroBertran/React-mod2/index.html",
-    "main.07603b61.css.map": "/LeandroBertran/React-mod2/static/css/main.07603b61.css.map",
-    "main.fc87209a.js.map": "/LeandroBertran/React-mod2/static/js/main.fc87209a.js.map",
-    "787.3ddf1f1c.chunk.js.map": "/LeandroBertran/React-mod2/static/js/787.3ddf1f1c.chunk.js.map"
+    "main.css": "/React-mod2/static/css/main.07603b61.css",
+    "main.js": "/React-mod2/static/js/main.9136177b.js",
+    "static/js/787.3ddf1f1c.chunk.js": "/React-mod2/static/js/787.3ddf1f1c.chunk.js",
+    "static/media/404.png": "/React-mod2/static/media/404.37012dd33fd3f60bb8cf.png",
+    "static/media/loading.gif": "/React-mod2/static/media/loading.97f9fd44b24dd52e8ab9.gif",
+    "static/media/bunny-logo.png": "/React-mod2/static/media/bunny-logo.91696254a0610e23e182.png",
+    "index.html": "/React-mod2/index.html",
+    "main.07603b61.css.map": "/React-mod2/static/css/main.07603b61.css.map",
+    "main.9136177b.js.map": "/React-mod2/static/js/main.9136177b.js.map",
+    "787.3ddf1f1c.chunk.js.map": "/React-mod2/static/js/787.3ddf1f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07603b61.css",
-    "static/js/main.fc87209a.js"
+    "static/js/main.9136177b.js"
   ]
 }
